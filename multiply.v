@@ -1,4 +1,4 @@
-module multiply(x,y,q);
+module multiply(x,y,Q);
 
 	input [2:0] x; 
 	input [1:0] y;
